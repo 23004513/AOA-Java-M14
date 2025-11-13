@@ -1,6 +1,6 @@
 
 # EX 4B Frog Jump - Dynamic Programming.
-## DATE:
+## DATE:24/09/25
 ## AIM:
 To write a Java program to for given constraints.
 A Frog Jump 1 or 2 steps at a time.
@@ -16,7 +16,7 @@ A single integer n (1 ≤ n ≤ 45) – number of steps.
 A single integer – number of distinct ways to reach step n.
 
 ## Algorithm
-1. Start and read the number of steps n.
+1.Start and read the number of steps n.
 
 2.If n <= 1, there is only one way to reach the top.
 
