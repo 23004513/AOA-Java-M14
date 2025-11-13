@@ -9,7 +9,7 @@ Input: nums = [10,9,2,5,3,7,101,18]
 Output: 4
 Explanation: The longest increasing subsequence is [2,3,7,101], therefore the length is 4.
 ## Algorithm
-1. Start and read the number of elements n, then input the array nums[].
+1.Start and read the number of elements n, then input the array nums[].
 
 2.Initialize a DP array dp[] with all values as 1 (each element is an LIS of length 1).
 
