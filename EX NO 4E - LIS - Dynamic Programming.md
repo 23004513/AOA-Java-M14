@@ -1,6 +1,6 @@
 
 # EX 4E Longest Increasing Subsequence - Dynamic Programming.
-## DATE:
+## DATE:06/10/25
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums, return the length of the longest strictly increasing subsequence.
@@ -24,8 +24,8 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 ```
 /*
 Program to implement Reverse a String
-Developed by: 
-Register Number:  
+Developed by: N.Navya Sree
+Register Number:  212223040138
 */
 import java.util.*;
 
