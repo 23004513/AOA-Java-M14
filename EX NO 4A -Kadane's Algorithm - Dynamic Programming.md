@@ -1,6 +1,6 @@
 
 # EX 4A Kadane's Algorithm - Dynamic Programming. 
-## DATE:
+## DATE:22/09/25
 ## AIM:
 To Write a Java program to solve the below problem using Kadane's Algorithm.
 A solar company installs solar panels around a circular grid of n buildings. Each building either generates or consumes net energy, represented by integers (+ve for generated, -ve for consumed).
@@ -20,7 +20,7 @@ A single integer: Maximum net energy collectable from a contiguous block (wrappi
 Constraints:
 1 <= n <= 10^6
 ## Algorithm
-1. Start and read the number of solar panels and their energy values into an array.
+1.Start and read the number of solar panels and their energy values into an array.
 
 2.Calculate the total sum of all energy values.
 
