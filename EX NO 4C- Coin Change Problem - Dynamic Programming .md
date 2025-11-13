@@ -1,6 +1,6 @@
 
 # EX 4C Coin Change Problem - Dynamic Programming.
-## DATE:
+## DATE:25/09/25
 ## AIM:
 To write a Java program to for given constraints.
 You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
@@ -10,7 +10,7 @@ Return the fewest number of coins that you need to make up that amount. If that 
 You may assume that you have an infinite number of each kind of coin.
 
 ## Algorithm
-1. Start and read the list of coin denominations and the target amount.
+1.Start and read the list of coin denominations and the target amount.
 
 2.Initialize a DP array dp[] of size amount + 1, where dp[i] stores the minimum number of coins to make amount i.
 
